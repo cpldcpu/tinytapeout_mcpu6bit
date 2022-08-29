@@ -8,7 +8,7 @@
 // 08   /2022 Changed to 6 bit
 
 
-module mcpu(datain,dataout,we,rst,clk);
+module mcpu6bit_top(datain,dataout,we,rst,clk);
 
 inout [5:0] datain;
 output [5:0] dataout;
