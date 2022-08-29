@@ -1,5 +1,6 @@
 ![](../../workflows/wokwi/badge.svg)
-6 bit version of [MCPU]/https://github.com/cpldcpu/MCPU) as a submission for tinytapeout
+
+6 bit version of [MCPU](/https://github.com/cpldcpu/MCPU) as a submission for tinytapeout
 
 
 original readme
