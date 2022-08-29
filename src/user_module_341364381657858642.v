@@ -12,7 +12,7 @@ mcpu6bit mcpu6bit_top (
   .datain(io_in[7:2]),
 
   .we(io_out[1]),
-  .dataout(io_out[7:2]),
+  .dataout(io_out[7:2])
 );
 
 endmodule
