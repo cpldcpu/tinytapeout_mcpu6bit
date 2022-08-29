@@ -1,4 +1,9 @@
 ![](../../workflows/wokwi/badge.svg)
+6 bit version of [MCPU]/https://github.com/cpldcpu/MCPU) as a submission for tinytapeout
+
+
+original readme
+---------------------------------------
 
 Go to https://tinytapeout.com for instructions!
 
@@ -18,7 +23,7 @@ After that, the action uses the open source ASIC tool called [OpenLane](https://
 
 # What files get made?
 
-When the action is complete, you can [click here](https://github.com/mattvenn/wokwi-verilog-gds-test/actions) to see the latest build of your design. You need to download the zip file and take a look at the contents:
+When the action is complete, you can [click here](./actions) to see the latest build of your design. You need to download the zip file and take a look at the contents:
 
 * gds_render.svg - picture of your ASIC design
 * gds.html - zoomable picture of your ASIC design
