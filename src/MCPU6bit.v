@@ -10,7 +10,7 @@
 
 module mcpu6bit(datain,dataout,we,rst,clk);
 
-inout [5:0] datain;
+input [5:0] datain;
 output [5:0] dataout;
 output we;
 input rst;
